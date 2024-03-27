@@ -1,7 +1,7 @@
 # FADet
 Implementation of 'FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention'
 
-![demo](./demo.mp4)
+![demo](./demo.gif)
 
 ## Abstract
 
