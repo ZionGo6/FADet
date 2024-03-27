@@ -18,7 +18,7 @@ Firstly,
 ```bash
 git clone https://github.com/ZionGo6/FADet
 ```
-We recommend to run our FADet in docker container, dockerfile and dependecies are ready in this repo.
+We recommend to run our FADet in docker container, dockerfile and dependencies are prepared in this repo.
 ```bash
 cd FADet/docker/
 ```
